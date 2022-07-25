@@ -62580,7 +62580,7 @@ $1(a){var s=null,r=this.a,q=$.axI[r]
 return A.c8(A.du(s,A.kD(q,this.b.b>720?s:350),B.K,!1,s,s,s,s,s,s,s,s,s,s,s,new A.RB(r),s,s,s,s,s,s),B.kj,s,s,s)},
 $S:88}
 A.RB.prototype={
-$0(){return B.J.dO(window,"../assets/chatter"+this.a+".png","_blank")},
+$0(){return B.J.dO(window,"../assets/assets/chatter"+this.a+".png","_blank")},
 $S:0}
 A.RE.prototype={
 $0(){},
@@ -62800,7 +62800,7 @@ r=$.ayP[r]
 return A.c8(A.du(s,A.kD(r,this.b.b>720?s:350),B.K,!1,s,s,s,s,s,s,s,s,s,s,s,q,s,s,s,s,s,s),p,s,s,s)},
 $S:88}
 A.Yd.prototype={
-$0(){B.J.dO(window,"../assets/kawaii"+this.a+".png","_blank")},
+$0(){B.J.dO(window,"../assets/assets/kawaii"+this.a+".png","_blank")},
 $S:0}
 A.Ye.prototype={
 $0(){},
@@ -62853,7 +62853,7 @@ $1(a){var s=null,r=this.a,q=$.az3[r]
 return A.c8(A.du(s,A.kD(q,this.b.b>720?s:350),B.K,!1,s,s,s,s,s,s,s,s,s,s,s,new A.a2R(r),s,s,s,s,s,s),B.kj,s,s,s)},
 $S:88}
 A.a2R.prototype={
-$0(){return B.J.dO(window,"../assets/skyliner"+this.a+".png","_blank")},
+$0(){return B.J.dO(window,"../assets/assets/skyliner"+this.a+".png","_blank")},
 $S:0}
 A.El.prototype={
 K(a,b){var s,r,q,p,o,n=null,m=$.af0()
