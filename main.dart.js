@@ -62785,16 +62785,20 @@ r.toString
 s.dW(r,B.X,A.bE(0,1500,0))},
 $S:0}
 A.abi.prototype={
-$0(){$.oa().dW(4700*$.Py,B.X,A.bE(0,0,1))},
+$0(){var s=$.oa(),r=$.Py?7130:4700
+s.dW(r,B.X,A.bE(0,0,1))},
 $S:0}
 A.abj.prototype={
-$0(){$.oa().dW(5840*$.Py,B.X,A.bE(0,1200,0))},
+$0(){var s=$.oa(),r=$.Py?8630:5840
+s.dW(r,B.X,A.bE(0,1200,0))},
 $S:0}
 A.abk.prototype={
-$0(){$.oa().dW(550*$.Py,B.X,A.bE(0,500,0))},
+$0(){var s=$.oa(),r=$.Py?500:555
+s.dW(r,B.X,A.bE(0,500,0))},
 $S:0}
 A.abl.prototype={
-$0(){$.oa().dW(5260*$.Py,B.X,A.bE(0,0,1))},
+$0(){var s=$.oa(),r=$.Py?7930:5260
+s.dW(r,B.X,A.bE(0,0,1))},
 $S:0}
 A.abm.prototype={
 $0(){B.J.dO(window,"https://drive.google.com/file/d/1N5lU_cpt1F6JQXSTLKK64FIXSNTkyBDn/view?usp=sharing","_blank")},
@@ -62827,7 +62831,7 @@ q=r.x
 r=q==null?A.n(r).j("dk.T").a(q):q}else r=!1
 if(r)s.ga4().dl(0)
 p=p.e.ga4()
-if(p!=null)p.A_(0)}$.Py=1.44},
+if(p!=null)p.A_(0)}$.Py=!0},
 $S:0}
 A.En.prototype={
 K(a,b){var s=null,r=this.vv(1000)
@@ -68060,7 +68064,7 @@ $.axL=A.a(["https://i.imgur.com/5RNhDyS.png","https://i.imgur.com/3k2GGNE.png"],
 $.akC=A.a(["https://i.imgur.com/n1VFXU2.png","https://i.imgur.com/ts9jBKM.png","https://i.imgur.com/fWtHvHU.png","https://i.imgur.com/O6WAW2F.png","https://i.imgur.com/j75hok2.png"],t.s)
 $.axP=A.a(["https://i.imgur.com/mNEdsh3.png","https://i.imgur.com/HkUld4h.png"],t.s)
 $.ayh=A.a(["https://i.imgur.com/0K5daND.png","https://i.imgur.com/KqMiJZp.png","https://i.imgur.com/L4ecvwL.png","https://i.imgur.com/0Gg3ucJ.png","https://i.imgur.com/GFm59Oc.png"],t.s)
-$.Py=1
+$.Py=!1
 $.ald=A.a(["https://i.imgur.com/2eIJ3jz.png","https://i.imgur.com/W8BIxSl.png","https://i.imgur.com/rccyg9H.png","https://i.imgur.com/h9CQFmF.png"],t.s)
 $.alu=A.a(["https://i.imgur.com/ShUZSGk.png","https://i.imgur.com/NBRKCWR.png","https://i.imgur.com/E4xvHxW.png","https://i.imgur.com/Es4GafW.png","https://i.imgur.com/4gWKc8l.png","https://i.imgur.com/Z3ev59U.png"],t.s)})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
 s($,"aBH","bP",()=>A.ay6(A.Bq().navigator.vendor,B.c.Au(A.Bq().navigator.userAgent)))
