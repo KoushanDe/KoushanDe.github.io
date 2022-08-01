@@ -68380,7 +68380,7 @@ return A.a([A.V1("assets/phone.png",q,"+91 8335825613","PHONE"),A.V1("assets/ema
 r($,"aCS","ac9",()=>A.a([A.v_(!1,new A.abh(),"CONTACT"),A.v_(!1,new A.abi(),"EDUCATION"),A.v_(!1,new A.abj(),"HIGHLIGHTS"),A.v_(!1,new A.abk(),"PROJECTS"),A.v_(!1,new A.abl(),"SKILLS"),A.v_(!0,new A.abm(),"DOWNLOAD CV")],A.Q("o<pe>")))
 r($,"aCK","oa",()=>A.Hm())
 s($,"aCT","anv",()=>A.a([A.v2("out of 1,13,912 candidates in WBJEE 2019","Ranked 79th"),A.v2("Completed 100 Days of Coding challenge. Reaching for 500 days. Link- github.com/KoushanDe/100-days-of-Leetcoding","100 Days of Coding"),A.v2("daily consistency badges in Leetcode. Leetcode profile: https://leetcode.com/KoushanDe/","4+"),A.v2("Succesfully completed Hacktoberfest 2020 by creating pull requests in 4+ public repositories","Hacktoberfest 2020"),A.v2("problems solved in Leetcode, Codestudio, GFG","400+"),A.v2("Cleared university level Smart India Hackathon 2022","SIH 2022")],A.Q("o<pf>")))
-r($,"aD2","anz",()=>A.a([A.xA(90,"C/C++"),A.xA(80,"Java"),A.xA(85,"Dart"),A.xA(70,"Python"),A.xA(55,"JavaScript"),A.xA(60,"HTML, CSS")],A.Q("o<qv>")))
+r($,"aD2","anz",()=>A.a([A.xA(90,"C/C++"),A.xA(80,"Java"),A.xA(85,"Dart"),A.xA(70,"Python"),A.xA(65,"SQL"),A.xA(60,"HTML,CSS,JS")],A.Q("o<qv>")))
 r($,"aAc","af2",()=>A.asu(null,t.Np))
 r($,"aAu","af4",()=>A.aJ([B.tp,0,B.b4,0,B.bJ,0,B.b5,1],A.Q("l6"),t.S))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
