@@ -62749,7 +62749,7 @@ s=t.w
 r=a.J(s).f.a.a<800?B.V:B.O
 s=a.J(s).f.a.a<800?B.am:B.e0
 q=t.p
-return A.dt(A.a([new A.eQ(new A.al(0,50,0,50),n,p),o,A.kx(A.a([A.dN(A.a([A.du(p,A.c8(A.acY(B.z6,B.Q,25),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9V(),p,p,p,p,p,p),A.an(p,A.aD("|",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("github.com/KoushanDe",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9W(),p,p,p,p,p,p)],q),B.am,B.p),A.dt(A.a([A.an(p,A.aD("\xa9Koushan De 2022",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("back to top",p,p,A.b7(p,p,B.eS,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9X(),p,p,p,p,p,p)],q),B.aj,B.am,B.p),A.dN(A.a([A.du(p,A.c8(A.acY(B.z7,B.Q,25),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9Y(),p,p,p,p,p,p),A.an(p,A.aD("|",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("linkedin.com/in/koushan-de-04a966192",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9Z(),p,p,p,p,p,p)],q),B.am,B.p)],q),B.aj,r,p,s,B.p,p,p,B.af),A.am(p,30,p)],q),B.aj,B.C,B.p)},
+return A.dt(A.a([new A.eQ(new A.al(0,50,0,50),n,p),o,A.kx(A.a([A.dN(A.a([A.du(p,A.c8(A.acY(B.z6,B.Q,25),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9V(),p,p,p,p,p,p),A.an(p,A.aD("|",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("github.com/KoushanDe",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9W(),p,p,p,p,p,p)],q),B.am,B.p),A.dt(A.a([A.an(p,A.aD("\xa9Koushan De 2024",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("back to top",p,p,A.b7(p,p,B.eS,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9X(),p,p,p,p,p,p)],q),B.aj,B.am,B.p),A.dN(A.a([A.du(p,A.c8(A.acY(B.z7,B.Q,25),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9Y(),p,p,p,p,p,p),A.an(p,A.aD("|",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p,p,p,p,new A.al(8,0,8,0),p),A.du(p,A.c8(A.aD("linkedin.com/in/koushan-de-04a966192",p,p,A.b7(p,p,B.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),B.R,p,p,p),B.K,!1,p,p,p,p,p,p,p,p,p,p,p,new A.a9Z(),p,p,p,p,p,p)],q),B.am,B.p)],q),B.aj,r,p,s,B.p,p,p,B.af),A.am(p,30,p)],q),B.aj,B.C,B.p)},
 $S:409}
 A.a9U.prototype={
 $1(a){var s,r,q,p,o,n=null,m=this.b.b
@@ -62801,7 +62801,7 @@ $0(){var s=$.oa(),r=$.Py?7930:5260
 s.dW(r,B.X,A.bE(0,0,1))},
 $S:0}
 A.abm.prototype={
-$0(){B.G.dw(window,"https://drive.google.com/file/d/1yMp7axzVVLumyJO0WFuHmJIQpL4RkXPA/view?usp=sharing","_blank")},
+$0(){B.G.dw(window,"https://drive.google.com/file/d/1Zfsn7nTmlPublBt9ZEctax2GBMzbho3y/view?usp=sharing","_blank")},
 $S:0}
 A.v0.prototype={
 K(a,b){var s=null
@@ -68366,7 +68366,7 @@ for(q=t.p,p=0;p<5;++p){o=A.aD("STUDENT DEVELOPER AND TECH ENTHUSIAST",e,e,A.cB(B
 n=A.am(e,18,e)
 m=A.aD("KOUSHAN\nDE",e,e,A.cB(B.j,40,B.N,1.3),e,e)
 l=A.am(e,10,e)
-k=A.aD("I am Koushan De, currenty studying CSE in Jadavpur University. Interested in Android applications and Front-end development. Willing to work in real-world engineering problems.",e,e,A.b7(e,e,B.Q,e,e,e,e,e,e,e,e,15,e,e,e,1,!0,e,e,e,e,e,e,e,1.5),e,e)
+k=A.aD("I am Koushan De, currenty working in Navi Technologies as software engineer [Backend]. Interested in Backend development, Android applications and CyberSecurity. Willing to solve real-world engineering problems.",e,e,A.b7(e,e,B.Q,e,e,e,e,e,e,e,e,15,e,e,e,1,!0,e,e,e,e,e,e,e,1.5),e,e)
 j=A.am(e,10,e)
 i=A.an(e,A.yn(A.a([A.aiu("Got a project? Let's talk.",e,A.b7(e,e,B.j,e,e,e,e,e,e,e,e,15,e,e,e,1.5,!0,e,e,e,e,e,e,e,e))],q),0,0),e,e,e,e,e,e,e)
 h=A.am(e,25,e)
@@ -68376,11 +68376,11 @@ d[p]=new A.Cf(A.an(e,A.dt(A.a([o,n,m,l,k,j,i,h,A.c8(A.an(e,A.iO(A.aD("GET IN TOU
 s($,"aCP","ant",()=>{var q="Jadavpur Vidyapith"
 return A.a([A.acK("Pursuing Bachelor in Engineering in Computer Science and Engineering.\nCGPA: 8.87","Jadavpur University","2019-present"),A.acK("Completed Higher Secondary Education (WBCHSE)\nAggregate: 92%\nMathematics: 100\nStatistics: 100",q,"2016-2018"),A.acK("Completed Secondary Education (WBBSE)\nAggregate: 91.4%\nMathematics: 100",q,"2010-2016")],A.Q("o<oV>"))})
 s($,"aCQ","anu",()=>{var q="+91 8910453538"
-return A.a([A.V1("assets/phone.png",q,"+91 8335825613","PHONE"),A.V1("assets/email.png","koushanriki007@gmail.com","koushanofficial.123@gmail.com","EMAIL"),A.V1("assets/mappin.png","Jadavpur, Kolkata","India","LOCATION"),A.V1("assets/whatsapp.png",q,"","WHATSAPP")],A.Q("o<pa>"))})
-r($,"aCS","ac9",()=>A.a([A.v_(!1,new A.abh(),"CONTACT"),A.v_(!1,new A.abi(),"EDUCATION"),A.v_(!1,new A.abj(),"HIGHLIGHTS"),A.v_(!1,new A.abk(),"PROJECTS"),A.v_(!1,new A.abl(),"SKILLS"),A.v_(!0,new A.abm(),"DOWNLOAD CV")],A.Q("o<pe>")))
+return A.a([A.V1("assets/phone.png",q,"+91 8335825613","PHONE"),A.V1("assets/email.png","koushanriki007@gmail.com","koushanofficial.123@gmail.com","EMAIL"),A.V1("assets/mappin.png","Bangalore, Karnataka","India","LOCATION"),A.V1("assets/whatsapp.png",q,"","WHATSAPP")],A.Q("o<pa>"))})
+r($,"aCS","ac9",()=>A.a([A.v_(!1,new A.abh(),"CONTACT"),A.v_(!1,new A.abi(),"EDUCATION"),A.v_(!1,new A.abj(),"HIGHLIGHTS"),A.v_(!1,new A.abk(),"PROJECTS"),A.v_(!1,new A.abl(),"SKILLS"),A.v_(!0,new A.abm(),"OPEN CV")],A.Q("o<pe>")))
 r($,"aCK","oa",()=>A.Hm())
 s($,"aCT","anv",()=>A.a([A.v2("out of 1,13,912 candidates in WBJEE 2019","Ranked 79th"),A.v2("Completed 100 Days of Coding challenge. Reaching for 500 days. Link- github.com/KoushanDe/100-days-of-Leetcoding","100 Days of Coding"),A.v2("daily consistency badges in Leetcode. Leetcode profile: https://leetcode.com/KoushanDe/","4+"),A.v2("Succesfully completed Hacktoberfest 2020 by creating pull requests in 4+ public repositories","Hacktoberfest 2020"),A.v2("problems solved in Leetcode, Codestudio, GFG","400+"),A.v2("Cleared university level Smart India Hackathon 2022","SIH 2022")],A.Q("o<pf>")))
-r($,"aD2","anz",()=>A.a([A.xA(90,"C/C++"),A.xA(80,"Java"),A.xA(85,"Dart"),A.xA(70,"Python"),A.xA(65,"SQL"),A.xA(60,"HTML,CSS,JS")],A.Q("o<qv>")))
+r($,"aD2","anz",()=>A.a([A.xA(90,"Java"),A.xA(80,"Kotlin"),A.xA(85,"C/C++"),A.xA(70,"SQL"),A.xA(65,"Python"),A.xA(60,"Dart,JS")],A.Q("o<qv>")))
 r($,"aAc","af2",()=>A.asu(null,t.Np))
 r($,"aAu","af4",()=>A.aJ([B.tp,0,B.b4,0,B.bJ,0,B.b5,1],A.Q("l6"),t.S))})();(function nativeSupport(){!function(){var s=function(a){var m={}
 m[a]=1
